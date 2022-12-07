@@ -1,0 +1,42 @@
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\csc.exe
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\vbc.exe
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\VBCSCompiler.exe
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.dll.config
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.pdb
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.csprojResolveAssemblyReference.cache
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.dll
+c:\users\thilankas\documents\visual studio 2015\Projects\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.pdb
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\csc.exe
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\System.Collections.Immutable.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\System.Reflection.Metadata.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\vbc.exe
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\VBCSCompiler.exe
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\roslyn\VBCSCompiler.exe.config
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.dll.config
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\Online_Book_Store.pdb
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.csproj.AssemblyReference.cache
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.csproj.CoreCompileInputs.cache
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.csproj.CopyComplete
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.dll
+E:\Academic\Documents\Y4S2\CC\Online_Book_Store\Online_Book_Store\Online_Book_Store\obj\Debug\Online_Book_Store.pdb
